@@ -2,7 +2,7 @@
 A MS Excel VSTO add-in to export charts as PDF and image files and crop the extra margins.
 
 **Instructions:**
-1. Download [setup_v1.0.0.0.zip](setup_v1.0.0.0.zip) and run the setup file.
+1. Download [setup_v1.0.0.0.zip](https://github.com/omid-jf/ExportChart_Excel_Add-in/releases/download/v1.0.0.0/setup_v1.0.0.0.zip) and run the setup file.
 2. With a chart selected in Excel, click on *Export to PDF* or *Export to Image* buttons from the *Export Chart* tab.
 
 **Checksum of *setup_v1.0.0.0.zip*:**
